@@ -2,8 +2,8 @@ title: terminal.tips
 description: >
   Master your terminal, one tip at a time
 
-url: "http://trevorbramble.github.io/terminaltips" # the base hostname & protocol for your site
-baseurl: "/terminaltips"
+url: "http://terminal.tips" # the base hostname & protocol for your site
+baseurl: ""
 permalink: /:title
 
 email: inbox@trevorbramble.com
