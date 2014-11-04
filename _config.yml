@@ -4,6 +4,7 @@ description: >
 
 url: "http://trevorbramble.github.io/terminaltips" # the base hostname & protocol for your site
 baseurl: "/terminaltips"
+permalink: /:title
 
 email: inbox@trevorbramble.com
 twitter_username: TrevorBramble
