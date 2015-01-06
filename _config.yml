@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://terminal.tips"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-39279846-2
 
 # Optional features
 animated:           false
