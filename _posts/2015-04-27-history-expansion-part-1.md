@@ -19,7 +19,7 @@ sudo ntpd restart
 
 (As usual on \*nix, no output means it worked.)
 
-Notice Bash actually reports the expanded command while it's executing, so you can see exactly what it looks like. That will be more important later when using more complex expansion methods.
+Notice Bash actually reports the expanded command it's executing, so you can see exactly what it looks like. That will be more important later when using more complex expansion methods.
 
 The other history expansion method I want to demonstrate in this post is referencing an argument from the previous command, which is often useful when running a sequence of commands against a single file. For example here we want to extract the files for Twine after downloading it:
 
