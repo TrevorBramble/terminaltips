@@ -34,6 +34,7 @@ sass:
   compressed: true
 exclude: ["Gemfile", "Gemfile.lock", "CNAME"]
 
-gems:
+plugins:
+  - jekyll-paginate
   - jekyll-sitemap
 
